@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AlejandraLopezRamirez
-- 👀 I’m interested in 
+- 👀 I’m interested in software engineering and the study of data
+
 - 🌱 I’m currently learning Developer Java Full Stack
 - 💞️ I’m looking to collaborate on a company that gives me support in my professional and personal growth
 - 📫 How to reach me alejandra.opez.ram@gmail.com
